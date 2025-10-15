@@ -23,6 +23,10 @@ _**bolded italicized text**_
 
 Link to Avenue to Learn [Avenue](https://avenue.mcmaster.ca/)
 
+print("Hello World")
+
 | Header 1 | Header 2|
 | -------- | ------- |
-| Content  | Info    |
+| table    | Info    |
+
+All Done! 😃 
