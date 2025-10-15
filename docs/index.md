@@ -9,4 +9,5 @@ nav_order: 1
 ### Heading 3
 
 _**bolded italicized text**_
+
 ![Cute kitten](https://placekitten.com/400/300)
