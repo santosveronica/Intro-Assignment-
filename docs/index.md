@@ -22,3 +22,7 @@ _**bolded italicized text**_
 - List
 
 Link to Avenue to Learn [Avenue](https://avenue.mcmaster.ca/)
+
+| Header 1 | Header 2|
+| -------- | ------- |
+| Content  | Info    |
