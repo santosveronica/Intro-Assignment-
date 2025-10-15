@@ -8,4 +8,5 @@ nav_order: 1
 ## Heading 2
 ### Heading 3
 
-**bolded text**
+_**bolded italicized text**
+_
