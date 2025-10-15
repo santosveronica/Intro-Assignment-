@@ -1,8 +1,8 @@
 ---
-# A first-level heading
-## A second-level heading
-### A third-level heading
-title: <enter your title here>
+title: lesson 2
 layout: default
 nav_order: 1
 ---
+
+# Heading 1
+
