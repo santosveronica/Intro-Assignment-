@@ -23,9 +23,8 @@ _**bolded italicized text**_
 
 Link to Avenue to Learn [Avenue](https://avenue.mcmaster.ca/)
 
-'''
-git add
-'''
+'''python
+print("Hello World")
 
 | Header 1 | Header 2|
 | -------- | ------- |
