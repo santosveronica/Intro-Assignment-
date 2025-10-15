@@ -25,7 +25,7 @@ Link to Avenue to Learn [Avenue](https://avenue.mcmaster.ca/)
 
 ```python
 print("Hello World")
-
+```
 | Header 1 | Header 2|
 | -------- | ------- |
 | table    | Info    |
